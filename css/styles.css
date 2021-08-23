@@ -1,0 +1,55 @@
+#title{
+  background-color: red;
+}
+h1{
+font-family: 'Anton', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #fff;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+body{
+font-family: 'Anton', sans-serif;
+}
+.navbar-brand{
+font-family: "Ubuntu",serif;
+font-size: 3.6rem;
+font-weight: bold;
+}
+.navbar{
+  padding:0 0 4.5rem;
+}
+.nav-item{
+  padding: 0 10px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+}
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+.image{
+  width: 60%;
+  transform: rotate(25deg);
+}
+#features{
+  padding: 7% 15%;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+h3{
+font-family: 'Anton', sans-serif;
+}
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
